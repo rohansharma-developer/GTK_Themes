@@ -34,6 +34,6 @@ Copy all the contents of the folder to `.themes`
 cp -r ./GTK_Themes/* ./
 ```
 # Usage
-<p>Open `gnome-tweaks` from your app menu. Choose any theme of your choice!</p>
+Open `gnome-tweaks` from your app menu. Choose any theme of your choice. Enjoy!
 
 
