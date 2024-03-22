@@ -1,5 +1,5 @@
 <h2 align="center">GTK_Themes</h2>
-A list of curated themes which your Gnome Desktop look amazing!
+A list of curated themes which make your Gnome Desktop look amazing!
 
 # Dependencies
 <b>The Following extensions need to be installed for the Themes to work.</b>
